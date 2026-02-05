@@ -4,7 +4,7 @@
 StudyBuddy è una web app in abbonamento che aiuta gli studenti universitari a organizzare lo studio attraverso planner e checklist.
 
 ## Team
-- kur momad – Product Manager
+- khursheed – Product Manager
 - varotto – UX/UI Designer
 - bazzani – Technical Lead
 
