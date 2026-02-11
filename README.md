@@ -4,9 +4,9 @@
 StudyBuddy è una web app in abbonamento che aiuta gli studenti universitari a organizzare lo studio attraverso planner e checklist.
 
 ## Team
-- khursheed – Product Manager
+- Bazzani– Product Manager
 - varotto – UX/UI Designer
-- bazzani – Technical Lead
+- khursheed – Technical Lead
 
 ## Link
 - Prototipo Figma: https://www.figma.com/make/nBPpnQ54nhcWWctlNwg4WK/StudyBuddy-Web-App-Mockup?fullscreen=1&t=gSzWX4WqL2mt7H0Q-1&preview-route=%2Fdashboard
