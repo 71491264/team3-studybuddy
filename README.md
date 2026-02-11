@@ -10,7 +10,7 @@ StudyBuddy è una web app in abbonamento che aiuta gli studenti universitari a o
 
 ## Link
 - Prototipo Figma: https://www.figma.com/make/nBPpnQ54nhcWWctlNwg4WK/StudyBuddy-Web-App-Mockup?fullscreen=1&t=gSzWX4WqL2mt7H0Q-1&preview-route=%2Fdashboard
-- Kanban Board: DA_INSERIRE
+  
 
 ## Istruzioni per la valutazione
 Aprire il prototipo Figma e seguire il flusso:
